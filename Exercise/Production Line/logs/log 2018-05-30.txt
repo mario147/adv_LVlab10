@@ -1,0 +1,79 @@
+30.05.2018 17:43:42 Initializing PLC... 
+30.05.2018 17:43:42 UI initialized 
+30.05.2018 17:43:42 Model initilalized 
+30.05.2018 17:43:42 DAQ module initialized 
+30.05.2018 17:43:42 LOG module initialized 
+30.05.2018 17:43:42 TCP module initialized 
+30.05.2018 17:43:42 PLC initialization successful! 
+30.05.2018 17:44:05 No connection - data not sent! 
+30.05.2018 17:44:05 Another barrel filled 
+30.05.2018 17:44:17 No connection - data not sent! 
+30.05.2018 17:44:17 Another barrel filled 
+30.05.2018 17:44:56 Initializing PLC... 
+30.05.2018 17:44:56 UI initialized 
+30.05.2018 17:44:56 Model initilalized 
+30.05.2018 17:44:56 DAQ module initialized 
+30.05.2018 17:44:56 LOG module initialized 
+30.05.2018 17:44:56 TCP module initialized 
+30.05.2018 17:44:56 PLC initialization successful! 
+30.05.2018 17:45:09 Another barrel filled 
+30.05.2018 17:45:09 No connection - data not sent! 
+30.05.2018 17:45:12 Starting process... 
+30.05.2018 17:45:12 Process has started 
+30.05.2018 17:45:24 Another barrel filled 
+30.05.2018 17:45:24 No connection - data not sent! 
+30.05.2018 17:45:25 Stopping process... 
+30.05.2018 17:45:25 Process has stoped 
+30.05.2018 17:46:36 Starting process... 
+30.05.2018 17:46:36 Process has started 
+30.05.2018 17:46:50 Stopping process... 
+30.05.2018 17:46:55 Starting process... 
+30.05.2018 17:46:55 Process has started 
+30.05.2018 17:47:21 Another barrel filled 
+30.05.2018 17:47:21 No connection - data not sent! 
+30.05.2018 17:47:22 Stopping process... 
+30.05.2018 17:47:23 Process has stoped 
+30.05.2018 17:48:14 Starting process... 
+30.05.2018 17:48:14 Process has started 
+30.05.2018 17:48:37 Another barrel filled 
+30.05.2018 17:48:37 No connection - data not sent! 
+30.05.2018 17:48:38 Stopping process... 
+30.05.2018 17:48:39 Process has stoped 
+30.05.2018 17:50:56 Starting process... 
+30.05.2018 17:50:56 Process has started 
+30.05.2018 17:51:10 Another barrel filled 
+30.05.2018 17:51:10 No connection - data not sent! 
+30.05.2018 17:52:41 Initializing PLC... 
+30.05.2018 17:52:43 UI initialized 
+30.05.2018 17:52:44 Model initilalized 
+30.05.2018 17:52:45 DAQ module initialized 
+30.05.2018 17:52:45 LOG module initialized 
+30.05.2018 17:52:46 TCP module initialized 
+30.05.2018 17:52:46 PLC initialization successful! 
+30.05.2018 17:52:48 Closing PLC... 
+30.05.2018 17:52:57 UI initialized 
+30.05.2018 17:53:39 UI initialized 
+30.05.2018 17:55:15 Initializing PLC... 
+30.05.2018 17:55:15 UI initialized 
+30.05.2018 17:55:15 Model initilalized 
+30.05.2018 17:55:15 DAQ module initialized 
+30.05.2018 17:55:15 LOG module initialized 
+30.05.2018 17:55:15 TCP module initialized 
+30.05.2018 17:55:15 PLC initialization successful! 
+30.05.2018 17:55:35 Starting process... 
+30.05.2018 17:55:35 Process has started 
+30.05.2018 17:55:43 No connection - data not sent! 
+30.05.2018 17:55:43 Another barrel filled 
+30.05.2018 17:55:53 No connection - data not sent! 
+30.05.2018 17:55:53 Another barrel filled 
+30.05.2018 17:56:04 No connection - data not sent! 
+30.05.2018 17:56:04 Another barrel filled 
+30.05.2018 17:56:05 Stopping process... 
+30.05.2018 17:56:06 Process has stoped 
+30.05.2018 18:06:17 Closing PLC... 
+30.05.2018 18:06:17 Model closed 
+30.05.2018 18:06:17 DAQ module closed 
+30.05.2018 18:06:17 LOG module closed 
+30.05.2018 18:06:17 TCP module closed 
+30.05.2018 18:06:17 PLC shutdown successful! 
+30.05.2018 18:06:17 Application quits 
